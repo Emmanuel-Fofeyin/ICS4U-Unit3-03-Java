@@ -1,5 +1,5 @@
 /*
-* Sample text.
+* This is a Binary search program.
 *
 * @author  Emmanuel FN 
 * @version 1.0
